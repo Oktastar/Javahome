@@ -8,6 +8,7 @@ public class Main {
         System.out.println(andrei.ssd);
         System.out.println(galina.brand_nb);
         andrei.start_this_nb();
+        galina.start_get_nb();
         }
 
 }  // public class Main
